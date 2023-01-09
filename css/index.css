@@ -71,7 +71,8 @@ li:hover::after {
 #contact-text{
     font-size: 1.3rem;
     padding-top: 1rem;
-    pad
+    padding-left: 5rem;
+    padding-right: ;
     text-align: left;
     
 }
