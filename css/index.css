@@ -72,7 +72,14 @@ li:hover::after {
     font-size: 1.3rem;
     padding-top: 1rem;
     padding-left: 5rem;
-    padding-right: 1rem;
     text-align: left;
+    display: flex;
     
+}
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
