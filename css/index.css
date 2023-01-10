@@ -77,4 +77,10 @@ li:hover::after {
     
 }
 
-#mainmenu
+#mainmenu{
+  color: #6fb4fd4;
+}
+
+#mainmenu-text{
+  
+}
