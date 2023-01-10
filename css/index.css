@@ -82,5 +82,8 @@ li:hover::after {
 }
 
 #mainmenu-text{
-  
+  font-size: 1.3rem;
+  padding-top: 2rem;
+  text-align: center;
+  display f
 }
